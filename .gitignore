@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+train.csv
+train2.csv
+
 # C extensions
 *.so
 
